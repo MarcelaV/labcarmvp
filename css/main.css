@@ -67,14 +67,45 @@
 	filter: alpha;
 	height: 20em;
 	width: 35em;
-	/*text-align: center;*/
 	padding: 3em;
 	color: white;
 }
 
 .fondo3{
 	background: rgb(246, 182, 24);
-	/*height: 42em;*/
 	padding: 9em;
 	
+}
+
+
+.div-footer {
+    padding-bottom: 2%;
+    border-bottom: 1px solid white;
+    width: 85%;
+    left: 25%;
+}
+
+.icons {
+    margin: 23% 0% 1% 7%;
+}
+
+#icon {
+    margin-left: 2%;
+}
+
+
+.apps{
+    margin: 12% 0% 0% 12%;
+}
+
+.img-apps{
+    width: 50%;
+    margin-top: 7%;
+}
+
+.final-footer {
+    border-top: 1px solid white;
+    margin-left: 8%;
+    width: 80%;
+    padding: 2% 0% 5% 0%;
 }
