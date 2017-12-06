@@ -1,0 +1,80 @@
+.navbar-header{
+	padding: 1em;
+}
+
+.seccionuno{
+	background-image: url("../assets/images/taxi.jpg");
+	background-size: cover;
+	padding-top: 21em;
+	background-position: bottom;
+}
+
+.seccionuno .jumbotron{
+	float: right;
+
+}
+
+.jumbotron{
+	width: 40em;
+	height: 35em;
+	border: solid;
+	padding: 3em;
+	
+}
+
+.lines::after{
+    content:"";
+    border-bottom: 1px solid white;
+    padding: 0 2.5em;
+    margin-left: 3em;
+
+}
+ .lines::before{
+    content:"";
+    border-bottom: 1px solid white;
+    padding: 0 2.5em;
+    margin-right: 3em;
+    margin-left: 1.5em;
+}
+
+.fondo2{
+	background: rgb(246, 182, 24);
+	height: 42em;
+	
+}
+
+.bordecell{
+	border: 0.1em solid white;
+	margin-top: 7em;
+
+}
+
+.fotofondo{
+	background-image: url("../assets/images/conduce.jpg");
+	background-size: cover;
+	padding-bottom: 47em;
+	background-position: center center;
+}
+
+.fotofondo .jumbotron2{
+	float: right;
+
+}
+
+.jumbotron2{
+	background-color: black;
+	opacity: 0.8;
+	filter: alpha;
+	height: 20em;
+	width: 35em;
+	/*text-align: center;*/
+	padding: 3em;
+	color: white;
+}
+
+.fondo3{
+	background: rgb(246, 182, 24);
+	/*height: 42em;*/
+	padding: 9em;
+	
+}
